@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Sardine Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 4162408654590129303, guid: 85eeaf1c95c4e4a42a5f1a2e89fb5eae, type: 3}
+  cost: 5
+  itemName: Sardine Roe
+  fishPrefab: {fileID: 7520228240293308976, guid: 3fb860583c37de34e8aae7c7f8efafa1, type: 3}
+  roePrefab: {fileID: 6674757894423188363, guid: f59ed1cc3fed87042879ef7f72fce139, type: 3}
+  rarity: 0
+  bonusDescription: 3 Fish Out Of The Can

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Arowana Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -5266673235490452323, guid: 41495158ddb110e4bbc43711e3257d13, type: 3}
+  cost: 7
+  itemName: Arowana Roe
+  fishPrefab: {fileID: 2752510579982364121, guid: d3da7ad97ef473149801b4828f62fb8d, type: 3}
+  roePrefab: {fileID: 3887489024151925562, guid: 066c990c2294e294fb285ddf353d2a74, type: 3}
+  rarity: 1
+  bonusDescription: Flamboyant Fish. Weakens Enemies

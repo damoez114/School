@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Trout Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 4542107121899639664, guid: 276d4677f26650a4e9b4fff075126066, type: 3}
+  cost: 5
+  itemName: Trout Roe
+  fishPrefab: {fileID: 7243527852138318235, guid: 50103f8db6989f24597cb91d99ab5083, type: 3}
+  roePrefab: {fileID: 8734923417454282793, guid: d63b9683c4dd17d40ba92d79869e51a0, type: 3}
+  rarity: 0
+  bonusDescription: Owns The Creeks. Swims In Waves

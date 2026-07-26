@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Pufferfish Roe item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 3680785749532027649, guid: 3f71111702a0ce341bcd2cd92f3bba28, type: 3}
+  cost: 7
+  itemName: Pufferfish
+  fishPrefab: {fileID: 4532774874963618258, guid: bd80454cc819910479724ae9911842fe, type: 3}
+  roePrefab: {fileID: 4390123803208343874, guid: 35df1e2d9be871347a377f498cc9792a, type: 3}
+  rarity: 1
+  bonusDescription: Fish That Enter Its Radius Will Cause It To Deal Damage

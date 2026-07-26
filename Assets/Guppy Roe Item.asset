@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Guppy Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -1915019891520472842, guid: 2c117ace4a5bdbc4ba3df20682061ead, type: 3}
+  cost: 9
+  itemName: Guppy Roe
+  fishPrefab: {fileID: 2540866626425827863, guid: a3edb68e5f8880a498714b303b343151, type: 3}
+  roePrefab: {fileID: 8208557364287183912, guid: de1f84d2a93ac0949bc3e880448e9668, type: 3}
+  rarity: 2
+  bonusDescription: 5 Small Aquarium Fish

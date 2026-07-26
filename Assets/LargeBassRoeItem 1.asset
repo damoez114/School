@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: LargeBassRoeItem 1
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 918396499039396468, guid: d25a95b715252a94bba210e15be9990d, type: 3}
+  cost: 5
+  itemName: Largemouth Bass Roe
+  fishPrefab: {fileID: 226823440941968114, guid: be1410d6ea6335c47b1522c6e44a19a7, type: 3}
+  roePrefab: {fileID: 2245385324183063348, guid: db11326653261a84da0626f1615bd59b, type: 3}
+  rarity: 0
+  bonusDescription: Bigger, Faster, Fish

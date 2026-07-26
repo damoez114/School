@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Koi Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 4340905209332066121, guid: 66303093bf69f48409e7ccb70f4eb070, type: 3}
+  cost: 12
+  itemName: Koi Roe
+  fishPrefab: {fileID: 5909235239785511234, guid: 348fb79acf8f66648a42780eb81d2e12, type: 3}
+  roePrefab: {fileID: 9131314949986179538, guid: 8e76e392ac99a3e40a0eae3ecd3b622b, type: 3}
+  rarity: 3
+  bonusDescription: Grows Upon Hits

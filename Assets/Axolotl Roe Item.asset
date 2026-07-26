@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Axolotl Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -8349824799571867316, guid: 59affc9689cd1eb42a47ae8ae8fd7ab5, type: 3}
+  cost: 12
+  itemName: Axolotl Egg
+  fishPrefab: {fileID: 2716027484092241763, guid: 4129945071db18a41a9d555b812075f5, type: 3}
+  roePrefab: {fileID: 2207725247317803410, guid: aa73d7ecdfd65d847aac6bf5d379ec45, type: 3}
+  rarity: 3
+  bonusDescription: Targets And Weakens Enemies

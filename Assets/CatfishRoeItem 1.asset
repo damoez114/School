@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: CatfishRoeItem 1
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -8566713412061411999, guid: 86a5d35e98674ad448dc8bc95bd06069, type: 3}
+  cost: 5
+  itemName: Catfish Roe
+  fishPrefab: {fileID: 2022284622471688705, guid: 489db39337c148f4eb1ef229b1420a09, type: 3}
+  roePrefab: {fileID: 6609631767467097855, guid: 7052e6730ebc8e0439d42cffedeaa483, type: 3}
+  rarity: 0
+  bonusDescription: Bottom Dweller. Swims in a U-Shape

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d8ab2a19a396ea44aada389bae25e873
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - image: {instanceID: 0}
+  - parentAfterDrag: {instanceID: 0}
+  - bluegillPrefab: {instanceID: 0}
+  - splashSound: {fileID: 8300000, guid: a1b6897c1b54de64b9643021f799de25, type: 3}
+  - clickSound: {fileID: 8300000, guid: 5271f431832b30040a75ad1f085b8ec6, type: 3}
+  - dragSound: {fileID: 8300000, guid: 5271f431832b30040a75ad1f085b8ec6, type: 3}
+  - sellSound: {fileID: 8300000, guid: 3827c87d646c0a94bbca81db5afe3af6, type: 3}
+  - sourceItem: {instanceID: 0}
+  - grownIcon: {instanceID: 0}
+  - hookedIcon: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

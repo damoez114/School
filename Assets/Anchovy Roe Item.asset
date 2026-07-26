@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Anchovy Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -6187652659213280600, guid: 9d9a97c0d6a1b5646898223378ef90de, type: 3}
+  cost: 7
+  itemName: Anchovy Roe
+  fishPrefab: {fileID: 3342136620737408403, guid: 53310dc2b1f12d1478d0fe29a77f1c21, type: 3}
+  roePrefab: {fileID: 266278245480544474, guid: 08fecd3b772f32d4db96db5c6b8de3c4, type: 3}
+  rarity: 1
+  bonusDescription: Colourful Swim Arrangement

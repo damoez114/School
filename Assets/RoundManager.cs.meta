@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 8400f29ede83a8a4394d1e0d834f1a57
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - enemySpawner: {instanceID: 0}
+  - hotbarManager: {instanceID: 0}
+  - pauseButton: {instanceID: 0}
+  - winScreen: {instanceID: 0}
+  - loseScreen: {instanceID: 0}
+  - shopManager: {instanceID: 0}
+  - triesText: {instanceID: 0}
+  - nextRoundSound: {fileID: 8300000, guid: 5271f431832b30040a75ad1f085b8ec6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da4daaef7076b53448f7dc80e3511ce6, type: 3}
+  m_Name: New Worm Consumable
+  m_EditorClassIdentifier: Assembly-CSharp::WormConsumable
+  icon: {fileID: 4104267516502305374, guid: f7303f1f91085344794d9b1450646eb8, type: 3}
+  cost: 3
+  itemName: Super Worm
+  bonusDescription: Grows The Size Of Any Fish You Choose
+  growthPercent: 0.2

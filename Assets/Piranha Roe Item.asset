@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Piranha Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 8807809162279942137, guid: 586cf8844c0625849a2283589ea6b096, type: 3}
+  cost: 9
+  itemName: Piranha Roe
+  fishPrefab: {fileID: 6625112944306881742, guid: 72aa4a01201172b49a2dd9678ca9b90b, type: 3}
+  roePrefab: {fileID: 7917329839383021857, guid: 20a30ed7d49ca23408c71e2297d7ebfd, type: 3}
+  rarity: 2
+  bonusDescription: Three Bloodthirsty Killers

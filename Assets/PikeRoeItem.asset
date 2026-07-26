@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: PikeRoeItem
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -5775225067860091478, guid: cce86b9f9eb4cbc4dba9e6efb6f9816b, type: 3}
+  cost: 5
+  itemName: Pike Roe
+  fishPrefab: {fileID: 2969461636255413402, guid: 4c3ad61ea8d63704d9ccdacc3a3f0b56, type: 3}
+  roePrefab: {fileID: 5546723484836229130, guid: 542825fda49e6db479a4775b6d281bb6, type: 3}
+  rarity: 0
+  bonusDescription: Sharpdart Striker

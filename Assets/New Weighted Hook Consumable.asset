@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0d4ac3a9ce8c21f4e9a5209a697cd961, type: 3}
+  m_Name: New Weighted Hook Consumable
+  m_EditorClassIdentifier: Assembly-CSharp::WeightedHookConsumable
+  icon: {fileID: -8485120481750883359, guid: 08ffcb34092b930438685cfda023baf8, type: 3}
+  cost: 3
+  itemName: Weighted Hook
+  bonusDescription: 'Plus 3 Damage To All Uncommon Fish
+
+'
+  damageBonus: 3

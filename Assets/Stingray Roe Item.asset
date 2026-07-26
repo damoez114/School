@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Stingray Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -5939952321080118544, guid: 980c5823a8d4aca468b3075a296ca06e, type: 3}
+  cost: 7
+  itemName: Stingray Egg
+  fishPrefab: {fileID: 6585019953059598157, guid: cf867314d7858bf41944564f5feeee17, type: 3}
+  roePrefab: {fileID: 1425406343664848596, guid: 021567563c6f79d4082faa8a542ba7db, type: 3}
+  rarity: 1
+  bonusDescription: Nibbles On Enemies

@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: MinnowRoeItem
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -3155153648569646302, guid: a8b21ea4e164be748af528a54fc03125, type: 3}
+  cost: 5
+  itemName: Minnow Roe
+  fishPrefab: {fileID: 8159875200824872206, guid: 6ccd793135823ba4d872b033f2b12cd2, type: 3}
+  roePrefab: {fileID: 9076845717701852027, guid: 9323f4e97beaaf34b9426619efebca05, type: 3}
+  rarity: 0
+  bonusDescription: Three Small Swimmers

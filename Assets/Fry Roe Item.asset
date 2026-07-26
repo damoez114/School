@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Fry Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: -7331946865416439635, guid: c4816bd268a12fa499f4254e72cfdfeb, type: 3}
+  cost: 7
+  itemName: Fry Roe
+  fishPrefab: {fileID: 6514887870393625681, guid: 3e45b0d0566173d49a57f84c560c0c91, type: 3}
+  roePrefab: {fileID: 2259512743946017301, guid: a52d3062277bf5547bc757ca75d37d61, type: 3}
+  itemID: 
+  prefab: {fileID: 0}
+  icon: {fileID: -7331946865416439635, guid: c4816bd268a12fa499f4254e72cfdfeb, type: 3}
+  cost: 7
+  rarity: 1
+  bonusDescription: Fish Spawn In High Volume

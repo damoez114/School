@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2fbe29c2a2d567b498de1ab19ef7d17c, type: 3}
+  m_Name: Halibut Roe Item
+  m_EditorClassIdentifier: Assembly-CSharp::RoeItem
+  icon: {fileID: 3347551539765983512, guid: 8f93441ef254ea34192a5b72c4970755, type: 3}
+  cost: 5
+  itemName: Halibut Roe
+  fishPrefab: {fileID: 8703189853326649963, guid: f1d3b27205fdfc84387227c8db4c73b9, type: 3}
+  roePrefab: {fileID: 3187995043827390435, guid: c19e7d6ff5e30364d98030524eb12a46, type: 3}
+  rarity: 0
+  bonusDescription: Enemies Killed Within Its Radius Grant Extra Shells
